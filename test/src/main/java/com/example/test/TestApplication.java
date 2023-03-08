@@ -18,6 +18,7 @@ public class TestApplication {
 		proxy.test();
 		System.out.println("end");
 		System.out.println("modify");
+		System.out.println("mm");
 	}
 
 }
