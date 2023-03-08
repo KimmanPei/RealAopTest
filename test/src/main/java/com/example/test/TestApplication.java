@@ -17,6 +17,7 @@ public class TestApplication {
 		Test proxy = aspectJProxyFactory.getProxy();
 		proxy.test();
 		System.out.println("end");
+		System.out.println("modify");
 	}
 
 }
